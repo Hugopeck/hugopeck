@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+🔭 I’m currently working on an generalist AI wrapper.
+🌱 I’m currently learning: swift, react, and all AI dev tools out there.
+📫 How to reach me: hugopeck@proton.me
 <!--
 **Hugopeck/hugopeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

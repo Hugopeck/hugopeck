@@ -1,5 +1,5 @@
 ## Hi there 👋
-🔭 I’m currently working on an generalist AI wrapper.
+🔭 I’m currently working on different AI wrapper apps to master context. Also building a market maker bot for prediciton markets.
 
 🌱 I’m currently learning: swift, react, and all AI dev tools out there.
 

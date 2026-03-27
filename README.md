@@ -12,7 +12,7 @@ I chase truth, embrace risk, and defend freedom. I think long-term, act with int
 
 I lift heavy weights, do yoga and run. I read, write daily, and cook well. Happily married for over a decade, father of Clementina and Bernardo. We're digital nomads — we've lived in multiple countries and keep moving.
 
-Physicist by training, MBA by necessity, builder by nature. I also practiced Ninjutsu from ages 10 to 20, so I can throw ninja stars.
+Physicist, MBA, builder by nature.
 
 ### What I do
 
@@ -24,8 +24,7 @@ Outside Futuur, I'm working on several technical projects:
 - **[Archeia](https://github.com/Hugopeck/archeia)** — Architecture diagnostic tool that treats skill files as its product surface
 - **[hstack](https://github.com/Hugopeck/hstack)** — Plugin marketplace for Claude Code
 - **Liquid Loop** — Cross-venue liquidity provision and gamma scalping for prediction markets
-- **Constructor** — Self-improving AI agent experimentation system inspired by David Deutsch's constructor theory
-- **[HPF](https://github.com/Hugopeck/HPF)** — Open-source HTML Presentation Framework for standalone interactive presentations
+- **Constructor** — Self-improving AI agent experimentation system
 
 Some of these will take off. Some won't. The point is I follow my curiosities — epistemology, philosophy of science, quantitative finance, systems thinking — and I build. Every time I hit a pain point while developing something, I try to solve that problem by building the tool I need. That's how most of my projects start.
 

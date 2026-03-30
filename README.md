@@ -10,7 +10,7 @@ I chase truth, embrace risk, and defend freedom. I think long-term, act with int
 
 ### About me
 
-I lift heavy weights, do yoga and run. I read, write daily, and cook well. Happily married for over a decade, father of Clementina and Bernardo. We're digital nomads — we've lived in multiple countries and keep moving.
+I lift heavy weights, do yoga and run. I read and write daily. Happily married for over a decade, father of Clementina and Bernardo. We're digital nomads — we've lived in multiple countries and keep moving.w
 
 Physicist, MBA, builder by nature.
 
@@ -22,8 +22,6 @@ Outside Futuur, I'm working on several technical projects:
 
 - **[Track](https://github.com/Hugopeck/track)** — File-based project management for developers orchestrating multiple AI coding agents
 - **[Archeia](https://github.com/Hugopeck/archeia)** — Architecture diagnostic tool that treats skill files as its product surface
-- **[hstack](https://github.com/Hugopeck/hstack)** — Plugin marketplace for Claude Code
-- **Liquid Loop** — Cross-venue liquidity provision and gamma scalping for prediction markets
 - **Constructor** — Self-improving AI agent experimentation system
 
 Some of these will take off. Some won't. The point is I follow my curiosities — epistemology, philosophy of science, quantitative finance, systems thinking — and I build. Every time I hit a pain point while developing something, I try to solve that problem by building the tool I need. That's how most of my projects start.

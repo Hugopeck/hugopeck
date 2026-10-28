@@ -1,6 +1,6 @@
 # Hugo Peck
 
-Physicist turned builder. Head of Operations at Futuur. Building at the intersection of AI, developer tooling, and quantitative systems.
+Physicist, MBA, entrepreneur and builder. Head of Operations at Futuur. Building at the intersection of Algoritmic trading, data analysis, science and learning. 
 
 ---
 
@@ -11,8 +11,6 @@ I chase truth, embrace risk, and defend freedom. I think long-term, act with int
 ### About me
 
 I lift heavy weights, do yoga and run. I read and write daily. Happily married for over a decade, father of Clementina and Bernardo. We're digital nomads — we've lived in multiple countries and keep moving.w
-
-Physicist, MBA, builder by nature.
 
 ### What I do
 
@@ -28,7 +26,7 @@ Some of these will take off. Some won't. The point is I follow my curiosities �
 
 ### My story
 
-Started my first business while studying physics in college — without dropping out. Failed because I had no idea what I was doing. Tried again after college, built a hardware business that peaked at $12M a year. Sold a piece of it for $2.5M. Invested everything in a manufacturing facility in my home country, which collapsed. Left, got an MBA to learn what I lacked, fell in love with making things efficient through first principles and technology. Spent years helping startups scale as COO and CEO — four businesses across four industries, three spectacular failures and one solid success. Now I'm building my own things again, faster than ever, with AI as the core multiplier.
+Started my first business while studying physics in college — without dropping out. Failed because I had no idea what I was doing. Tried again after college, built a hardware business that peaked at $12M a year. Sold a piece of it and invested everything in a manufacturing facility in my home country, which collapsed. Left, got an MBA to learn what I lacked, fell in love with making things efficient through first principles and technology. Spent years helping startups scale their Ops. Now I'm building my own things again, faster and wiser than ever
 
 ---
 
